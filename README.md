@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 In this example, we'll build a full-stack application that uses Retrieval Augmented Generation (RAG) powered by [Pinecone](https://pinecone.io) to deliver accurate and contextually relevant responses in a chatbot.
 
 RAG is a powerful tool that combines the benefits of retrieval-based models and generative models. Unlike traditional chatbots that can struggle with maintaining up-to-date information or accessing domain-specific knowledge, a RAG-based chatbot uses a knowledge base created from crawled URLs to provide contextually relevant responses.
@@ -573,3 +574,6 @@ To display the latest test report locally, run:
 npm run test:show
 ```
 
+=======
+# pineconeTemplate
+>>>>>>> 234aae2b85f1012d564363e15d8f4c65b0179bfb
